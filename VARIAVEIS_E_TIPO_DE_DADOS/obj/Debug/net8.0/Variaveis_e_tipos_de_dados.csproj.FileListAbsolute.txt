@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\bin\Debug\net8.0\Variaveis_e_tipos_de_dados.exe
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\bin\Debug\net8.0\Variaveis_e_tipos_de_dados.deps.json
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\bin\Debug\net8.0\Variaveis_e_tipos_de_dados.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\bin\Debug\net8.0\Variaveis_e_tipos_de_dados.dll
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\bin\Debug\net8.0\Variaveis_e_tipos_de_dados.pdb
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\obj\Debug\net8.0\Variaveis_e_tipos_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\obj\Debug\net8.0\Variaveis_e_tipos_de_dados.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\obj\Debug\net8.0\Variaveis_e_tipos_de_dados.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\obj\Debug\net8.0\Variaveis_e_tipos_de_dados.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\obj\Debug\net8.0\Variaveis_e_tipos_de_dados.dll
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\obj\Debug\net8.0\refint\Variaveis_e_tipos_de_dados.dll
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\obj\Debug\net8.0\Variaveis_e_tipos_de_dados.pdb
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\obj\Debug\net8.0\Variaveis_e_tipos_de_dados.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\Variaveis_e_tipos_de_dados\obj\Debug\net8.0\ref\Variaveis_e_tipos_de_dados.dll

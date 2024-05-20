@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\bin\Debug\net8.0\ESTRUTURAS_DE_REPETICAO.exe
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\bin\Debug\net8.0\ESTRUTURAS_DE_REPETICAO.deps.json
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\bin\Debug\net8.0\ESTRUTURAS_DE_REPETICAO.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\bin\Debug\net8.0\ESTRUTURAS_DE_REPETICAO.dll
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\bin\Debug\net8.0\ESTRUTURAS_DE_REPETICAO.pdb
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\obj\Debug\net8.0\ESTRUTURAS_DE_REPETICAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\obj\Debug\net8.0\ESTRUTURAS_DE_REPETICAO.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\obj\Debug\net8.0\ESTRUTURAS_DE_REPETICAO.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\obj\Debug\net8.0\ESTRUTURAS_DE_REPETICAO.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\obj\Debug\net8.0\ESTRUTURAS_DE_REPETICAO.dll
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\obj\Debug\net8.0\refint\ESTRUTURAS_DE_REPETICAO.dll
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\obj\Debug\net8.0\ESTRUTURAS_DE_REPETICAO.pdb
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\obj\Debug\net8.0\ESTRUTURAS_DE_REPETICAO.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\ESTRUTURAS_DE_REPETICAO\obj\Debug\net8.0\ref\ESTRUTURAS_DE_REPETICAO.dll

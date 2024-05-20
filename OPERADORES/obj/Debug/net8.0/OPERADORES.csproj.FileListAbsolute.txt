@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\bin\Debug\net8.0\OPERADORES.exe
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\bin\Debug\net8.0\OPERADORES.deps.json
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\bin\Debug\net8.0\OPERADORES.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\bin\Debug\net8.0\OPERADORES.dll
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\bin\Debug\net8.0\OPERADORES.pdb
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\obj\Debug\net8.0\OPERADORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\obj\Debug\net8.0\OPERADORES.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\obj\Debug\net8.0\OPERADORES.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\obj\Debug\net8.0\OPERADORES.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\obj\Debug\net8.0\OPERADORES.dll
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\obj\Debug\net8.0\refint\OPERADORES.dll
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\obj\Debug\net8.0\OPERADORES.pdb
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\obj\Debug\net8.0\OPERADORES.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Fundamentos_C_Sharp\OPERADORES\obj\Debug\net8.0\ref\OPERADORES.dll
