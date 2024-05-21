@@ -46,6 +46,8 @@ dotnet run
 
 <h2 id="colab">🤝 Colaboradores</h2>
 
+Um agradecimento especial a todas as pessoas que contribuíram para este projeto.
+
 <table>
   <tr>
     <td align="center">
