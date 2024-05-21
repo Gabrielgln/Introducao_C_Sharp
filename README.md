@@ -51,7 +51,7 @@ Um agradecimento especial a todas as pessoas que contribuíram para este projeto
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/Gabrielgln">
         <img src="https://avatars.githubusercontent.com/u/106107461?v=4" width="100px;" alt="Gabriel Lira Profile Picture"/><br>
         <sub>
           <b>Gabriel Lira</b>
@@ -59,7 +59,7 @@ Um agradecimento especial a todas as pessoas que contribuíram para este projeto
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/Rebecabl">
         <img src="https://avatars.githubusercontent.com/u/107273033?v=4" width="100px;" alt="Rebeca Profile Picture"/><br>
         <sub>
           <b>Rebeca Barbosa</b>
